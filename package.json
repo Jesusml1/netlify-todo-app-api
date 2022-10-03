@@ -12,5 +12,10 @@
   "license": "ISC",
   "devDependencies": {
     "netlify-cli": "^12.0.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.10.0",
+    "mongoose": "^6.6.3"
   }
 }
